@@ -1,7 +1,7 @@
 # PROJECT-Trespassing-object-identification
-Overview: The project is developed in python language and uses predefined Tensorflow library to detect objects and hence spots a trespass.       
+Overview: The project is developed in python language and uses Tensorflow's object detection api to detect objects and hence alert a trespass.       
 
-Models used: We have shown two different models that actually process the images and helps us to spot any animal or human in the image. 
+Models used: We have shown two different models that actually process the images and helps us spot any animal or human in the image. 
 
 Concept used: Machine learning (Image processing and object identification)     
 
@@ -10,8 +10,6 @@ Areas of use: This project can be utilised to spot any tresspassing object and t
 Language used: Python
 
 Library used: Tensorflow is used majorly along with many supporting files.
-
-Software used: Jupyter notebook
 
 Images database: COCOAPI (Link-https://github.com/cocodataset/cocoapi) This API has a lot of images on which the model is trained. The test images are just googled and the machine learning model is tested on it.
 
